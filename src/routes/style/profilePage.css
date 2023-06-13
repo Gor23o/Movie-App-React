@@ -1,0 +1,66 @@
+.Profile {
+    display: flex;
+}
+
+#profile-picture{
+    width: 270px;
+    height: 350px;
+    border-radius: 10px;
+    overflow: hidden;
+    object-fit: cover;
+    border: 2px solid rgba(255, 255, 255, 0);
+}
+
+input{
+    width: 270px;
+    color: rgb(0, 0, 0);
+}
+
+
+#upload-button{
+    border-radius: 10px;
+    width: 270px;
+    height: 50px;
+    font-size: large;
+    cursor: pointer;
+    margin: 0;
+}
+
+#upload-button:hover{
+    background-color: #69a05b;
+    cursor: pointer;
+}
+
+#info{
+    margin: 20px;
+    background-color: transparent;
+}
+#info button{
+    width: 100px;
+    height: 30px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    padding: 5px;
+}
+#info button:hover{
+    background-color: #69a05b;
+    cursor: pointer;
+}
+
+#profile-page{
+    display: flex;
+    flex-direction: column;
+}
+
+#profile{
+    padding: 20px;
+    background-color: rgb(36, 36, 36);
+    display: flex;
+    border-radius: 10px;
+}
+#edit-username{
+    color: black;
+    width: 250px;
+    height: 30px;
+}
+

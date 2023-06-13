@@ -1,0 +1,44 @@
+.tag > h2 {
+  font-family: "Arial", Courier, monospace;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.tag>h2>a{
+  color: white;
+}
+
+.slick-slide {
+  display: flex;
+  flex-direction: column;
+}
+
+.slick-slide img {
+  border-radius: 10px;
+  width: 100%;
+}
+
+.imgslider {
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+#imgs-container {
+  height: 100%;
+}
+
+#nested-imgs-container {
+  color: rgb(0, 0, 0);
+  height: 350px;
+  border-radius: 10px;
+  margin: 30px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+#nested-imgs-container:hover {
+  cursor: pointer;
+  padding: 15px;
+}
