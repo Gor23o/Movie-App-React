@@ -1,6 +1,9 @@
 Demo video of the app
 
 https://youtu.be/j09CNozNwJw
+![Screenshot 2023-06-13 231455](https://github.com/Gor23o/Movie-App-React/assets/118368305/ea4a325a-3807-421f-a227-045666516824)
+
+
 
 Some pages of the app
 
